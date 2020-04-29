@@ -23,5 +23,7 @@ make TARGET=Linux DOCKER=0 tools
 make TARGET=Linux DOCKER=0 apps
 ```
 ## Running the Lightbulb Demo app
+```shell
 cd ./Output/Linux-x86_64-pc-linux-gnu/Debug/IP/Applications/
 ./Lightbulb.OpenSSL
+```
